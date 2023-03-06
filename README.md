@@ -49,8 +49,10 @@ When all the incidents were compared against the different times of the day, I f
 
 ![Time of the day](images/Time_of_day.png)
 
-For more details please refer to the following files:
-
+For more details please refer to the following:
+[Findings presentation](TableauPresentation2IFAAWildlifeStrikes2015HugoPerdomo.pdf)
+[Tableau dashboard file](FAA Wildlife Strikes up to 2015 v5.twbx)
+[Dashboard live from Tableau public](https://public.tableau.com/views/FAAWildlifeStrikesupto2015v5/FAAWildlifeStrikes?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Challenges 
 
