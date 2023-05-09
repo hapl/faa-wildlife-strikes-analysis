@@ -1,4 +1,4 @@
-# Final Project Tableau
+# FAA Wildlife Strikes Analysis in Tableau
 
 ## Goals
 
